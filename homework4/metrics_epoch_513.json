@@ -1,0 +1,11 @@
+{
+  "best_epoch": 513,
+  "peak_cpu_memory_MB": 0,
+  "training_duration": "01:02:34",
+  "training_start_epoch": 0,
+  "training_epochs": 513,
+  "epoch": 513,
+  "training_accuracy": 0.9014147653681379,
+  "training_loss": 0.32070919524308794,
+  "training_cpu_memory_MB": 0.0
+}

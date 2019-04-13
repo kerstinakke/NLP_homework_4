@@ -5,7 +5,7 @@ from allennlp.common.util import JsonDict
 from allennlp.data import Instance
 from allennlp.predictors.predictor import Predictor
 
-#@Predictor.register('homework4-predictor')
+@Predictor.register('homework4-predictor')
 class PaperClassifierPredictor(Predictor):
     @overrides
     def predict_json(self, json_dict: JsonDict) -> JsonDict:
